@@ -19,13 +19,13 @@ Project List
 
       Description: Implemented a schema validation process for the 2016 parking violation dataset. This ensured data integrity and quality during the ingestion process, contributing to more reliable analytical outcomes.
 
-4. [Final Project: Bank Term Deposit Prediction (Extended)](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week12)
+4. [Final Project: Bank Term Deposit Prediction (Extended)](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week13)
 
       Description: Developed a predictive model for ABC Bank to identify potential customers likely to purchase a term deposit product. Utilized machine learning techniques to optimize marketing efforts, resulting in improved resource allocation and cost efficiency.
       this extended version incorporates advanced techniques and insights gained throughout the internship.
 
       Note: this project was created over multiple weeks, the link takes you to the final code.
-      if you're interested in viewing the project phases before the final code (understanding the dataset, identifying data problems, data cleaning, EDA...etc) please check [Week 7](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week7) through [Week 12](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week12)
+      if you're interested in viewing the project phases before the final code (understanding the dataset, identifying data problems, data cleaning, EDA...etc) please check [Week 7](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week7) through [Week 13](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week13)
 
 For detailed information on each project, refer to the respective project folders.
 
