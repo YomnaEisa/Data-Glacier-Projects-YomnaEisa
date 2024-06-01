@@ -11,15 +11,15 @@ Project List
 
       Description: Designed and implemented a classification model for iris detection. This project focused on accurately classifying iris samples based on distinct features.
 
-2. [Uploading Iris Detection Model on AWS EC2](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week5)
+3. [Uploading Iris Detection Model on AWS EC2](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week5)
 
       Description: Deployed the iris detection classification model onto an AWS EC2 instance. This involved setting up the environment, configuring the server, and ensuring seamless functionality on the cloud platform.
 
-3. [File Ingestion Schema Validation for 2016 Parking Violation Dataset](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week6)
+4. [File Ingestion Schema Validation for 2016 Parking Violation Dataset](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week6)
 
       Description: Implemented a schema validation process for the 2016 parking violation dataset. This ensured data integrity and quality during the ingestion process, contributing to more reliable analytical outcomes.
 
-4. [Final Project: Bank Term Deposit Prediction (Extended)](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week13)
+5. [Final Project: Bank Term Deposit Prediction (Extended)](https://github.com/YomnaEisa/Data-Glacier-Projects-YomnaEisa/tree/main/week13)
 
       Description: Developed a predictive model for ABC Bank to identify potential customers likely to purchase a term deposit product. Utilized machine learning techniques to optimize marketing efforts, resulting in improved resource allocation and cost efficiency.
       this extended version incorporates advanced techniques and insights gained throughout the internship.
